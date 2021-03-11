@@ -1,4 +1,0 @@
-连猴子都懂的Git命令 把变更录入到索引中 啊
-tutorial增加
-tutorial2增加
-已经合并
